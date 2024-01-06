@@ -44,30 +44,6 @@ streamlit run app.py
 
 Certainly! Below is a template for an end-to-end GitHub README.md file for your Gemini Invoice Reader application developed using Python, the Gemini API, and Streamlit. Feel free to modify and customize it based on your specific project details.
 
-markdown
-Copy code
-# Gemini Invoice Reader
-
-Gemini Invoice Reader is a Python application that leverages the Gemini API to read and process invoices. The user interface is built using Streamlit, providing a seamless experience for interacting with the application.
-
-## Features
-
-- **Gemini API Integration**: Connects to the Gemini API to retrieve and process invoices.
-- **Streamlit Interface**: User-friendly interface powered by Streamlit for easy interaction.
-- **Invoice Parsing**: Extracts relevant information from invoices using advanced parsing techniques.
-
-## Prerequisites
-
-- Python 3.x
-- Pip (Python package installer)
-
-## Installation
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/yourusername/gemini-invoice-reader.git
-   cd gemini-invoice-reader
 Install dependencies:
 
 bash
