@@ -90,7 +90,7 @@ Run the Streamlit application:
 bash
 Copy code
 streamlit run app.py
-Visit http://localhost:8501 in your web browser to access the Gemini Invoice Reader.
+Visit [http://localhost:8501](https://gemini-invoice-reader.onrender.com) in your web browser to access the Gemini Invoice Reader.
 
 Contributing
 If you'd like to contribute to this project, please follow the Contributing Guidelines.
